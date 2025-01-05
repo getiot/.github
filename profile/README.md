@@ -6,6 +6,8 @@
 
 Slogan：万物互联，你我同在！ 🌍
 
+<!--
+
 ![](https://static.getiot.tech/message-from-the-webmaster.png)
 
 ### 如何加入
@@ -23,3 +25,5 @@ Slogan：万物互联，你我同在！ 🌍
 - 网站：[https://getiot.tech](https://getiot.tech)
 - GitHub：[https://github.com/getiot](https://github.com/getiot)
 - 邮箱：<luhuadong@163.com>
+
+-->
